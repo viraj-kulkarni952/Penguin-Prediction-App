@@ -17,7 +17,9 @@ App created by Viraj Kulkarni.
 st.sidebar.header("User Input Features")
 
 #need to add link later of example
-st.sidebar.markdown("Example CSV file input: (")
+st.sidebar.markdown("""
+[Example CSV input file](https://raw.githubusercontent.com/viraj-kulkarni952/Penguin-Prediction-App/main/penguins_example.csv)
+""")
 
 #Collects user input features into dataframe
 #If the dataframe is NOT empty, then app will use the user input dataframe, otherwise it uses manual input features
