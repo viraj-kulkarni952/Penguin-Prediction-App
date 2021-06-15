@@ -23,7 +23,8 @@ $ source bin/activate
 ```bash
 $ pip install -r requirements.txt
 ```
-4. Run the application.
+4. Run the applications.
 ```python
-$ streamlit run finance.py
+$ streamlit run penguin-model-builder.py
+$streamlit run penguin-app.py
 ```
