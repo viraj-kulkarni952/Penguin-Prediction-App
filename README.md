@@ -26,5 +26,5 @@ $ pip install -r requirements.txt
 4. Run the applications.
 ```python
 $ streamlit run penguin-model-builder.py
-$streamlit run penguin-app.py
+$ streamlit run penguin-app.py
 ```
