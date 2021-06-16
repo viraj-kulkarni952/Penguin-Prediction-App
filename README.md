@@ -1,5 +1,5 @@
 # Penguin-Prediction-App
-A python app showing stock price information
+A Python app that predicts the species of penguin based on features.
 
 ## 1. Requirements
 * Pandas
