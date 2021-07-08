@@ -16,7 +16,7 @@ App created by Viraj Kulkarni.
          
 st.sidebar.header("User Input Features")
 
-#need to add link later of example
+#Give example of CSV file
 st.sidebar.markdown("""
 [Example CSV input file](https://raw.githubusercontent.com/viraj-kulkarni952/Penguin-Prediction-App/main/penguins_example.csv)
 """)
